@@ -14,4 +14,4 @@ Software Engineer SSR from Argentina 🇦🇷. Full-Stack Developer focused on c
 
 **Tech stack** — JavaScript · TypeScript · React · Next.js · Material UI · TailwindCSS · Node.js · Express · NestJS · Spring Boot · MySQL · MongoDB · Docker · GitLab
 
-[brunogrossom@gmail.com](mailto:brunogrossom@gmail.com) · [LinkedIn](https://www.linkedin.com/in/brunogrosso/) · [brunogrosso.dev](https://www.brunogrosso.dev)
+[brunogrossom@gmail.com](mailto:brunogrossom@gmail.com) · [LinkedIn](https://www.linkedin.com/in/brunogrosso/) · 
